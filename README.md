@@ -5,7 +5,7 @@
 
 - 👯 I have worked [American Cuisine](https://ph-assign-10.web.app/)
 
-- 🤝 I have worked [Hero Galore](https://ph-assign-11.web.app/)
+- 🤝 I have worked [Hero Galore](https://ph-assign-11.netlify.app/)
 
 - 💬 Ask me about **React, ExpressJs, MongoDb, Firebase**
 
