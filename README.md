@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hossain Santo</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I have worked [American Cuisine](https://ph-assign-10.web.app/)
 
